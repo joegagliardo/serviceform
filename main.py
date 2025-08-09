@@ -4,7 +4,6 @@
 
 # docker build -t us-east1-docker.pkg.dev/surfn-peru/serviceform/service-form:v1 .
 # docker push us-east1-docker.pkg.dev/surfn-peru/serviceform/service-form:v1
-
 import os
 import smtplib
 import ssl
